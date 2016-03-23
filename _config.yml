@@ -1,0 +1,28 @@
+name: Christopher Walker
+favicon: null
+layout_spectrum: 0.140410712454468
+typography_spectrum: 0.5238587260246277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.04487783438526094
+  lightness: 0.26018864824436605
+  saturation: 0.014708603732287884
+  rhythmicContrast: 0.008257731096819043
+purpose: []
