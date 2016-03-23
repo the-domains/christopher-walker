@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Christopher Walker]]></title>
         <description><![CDATA[Christopher Walker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christopher-walker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 06:23:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 06:27:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christopher-walker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3382b559-6e76-49b5-b114-21501d8c8232.jpg">]]></description>
+            <link>https://thegrid.ai/christopher-walker/12d3f4a6-98be-445e-9d5f-654eff509b85/index.html</link>
+            <guid isPermaLink="false">12d3f4a6-98be-445e-9d5f-654eff509b85</guid>
+            <pubDate>Wed, 23 Mar 2016 06:27:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>“When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bonds: Your mind transcends limitations, your consciousness expands in every direction, and you find yourself in a new, great and wonderful world. Dormant forces, faculties and talents become alive, and you discover yourself to be a greater person by far than you ever dreamed yourself to be.” Pattanjali Yoga Sutra</p>]]></description>
-            <link>undefinedwhen-you-are-inspired-by-some-great-purpose-some-extraordi/index.html</link>
+            <link>https://thegrid.ai/christopher-walker/when-you-are-inspired-by-some-great-purpose-some-extraordi/index.html</link>
             <guid isPermaLink="false">eb38c09c-7db8-4a9d-8f51-bea980446a6d</guid>
             <pubDate>Wed, 23 Mar 2016 06:23:24 GMT</pubDate>
         </item>
