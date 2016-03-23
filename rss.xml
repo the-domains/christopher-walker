@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Christopher Walker]]></title>
+        <description><![CDATA[Christopher Walker]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Mar 2016 06:23:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bonds: Your mind transcends limitations, your consciousness expands in every direction, and you find yourself in a new, great and wonderful world. Dormant forces, faculties and talents become alive, and you discover yourself to be a greater person by far than you ever dreamed yourself to be.” Pattanjali Yoga Sutra</p>]]></description>
+            <link>undefinedwhen-you-are-inspired-by-some-great-purpose-some-extraordi/index.html</link>
+            <guid isPermaLink="false">eb38c09c-7db8-4a9d-8f51-bea980446a6d</guid>
+            <pubDate>Wed, 23 Mar 2016 06:23:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
